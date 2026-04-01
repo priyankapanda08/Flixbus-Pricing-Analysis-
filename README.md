@@ -180,28 +180,6 @@ Data Source → Data Cleaning → Peer Matching → Price Benchmark → Flagging
 | Logic Implementation | Excel formulas / Python |
 | Automation           | Cron / Scheduling tools |
 
----
-
-## 📁 Project Structure
-
-```
-flixbus-pricing-analysis/
-│
-├── Data/
-│   ├── Raw/
-│   └── Processed/
-│
-├── Excel/
-│   └── Pricing_Flagging_Output.xlsx
-│
-├── Scripts/
-│   └── pricing_analysis.py
-│
-├── Reports/
-│   └── Pricing_Insights_Report.pdf
-│
-└── README.md
-```
 
 ---
 
